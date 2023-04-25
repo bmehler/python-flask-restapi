@@ -1,8 +1,15 @@
 # Restful Api with the Python Flask Framework
 
+## Getting the Project
+
+To install clone the github repository
+
+```php
+git clone https://github.com/bmehler/python-flask-restapi.git
+```
+
 ## Create a virtual environment
 ```bash
-mkdir python-flask-restapi
 $ cd python-flask-restapi
 $ python3 -m venv venv
 ```

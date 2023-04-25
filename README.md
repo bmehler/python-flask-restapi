@@ -2,8 +2,8 @@
 
 ## Create a virtual environment
 ```bash
-mkdir myproject
-$ cd myproject
+mkdir python-flask-restapi
+$ cd python-flask-restapi
 $ python3 -m venv venv
 ```
 ## Activate the environment
